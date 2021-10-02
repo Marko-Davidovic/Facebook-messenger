@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "facebook-messengers-clone",
-    
+    "test-fb-messinger": "facebook-messages-clone",
+    "default": "facebook-messages-clone"
   },
   "targets": {}
 }

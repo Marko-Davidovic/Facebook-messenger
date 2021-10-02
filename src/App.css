@@ -24,3 +24,7 @@
 .app__input {
   flex: 1;
 }
+
+.app__img {
+padding-top: 10px;
+}
