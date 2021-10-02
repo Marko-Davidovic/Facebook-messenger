@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "facebook-messenger-cea89"
-  }
+    "default": "facebook-messengers-clone",
+    
+  },
+  "targets": {}
 }

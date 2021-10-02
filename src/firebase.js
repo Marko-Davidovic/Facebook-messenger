@@ -2,14 +2,15 @@ import firebase from "firebase"
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyBMJYDOFzWHMBEl3Q7u251VWxz4HSuWN6s",
-    authDomain: "facebook-messanger-204d9.firebaseapp.com",
-    projectId: "facebook-messanger-204d9",
-    storageBucket: "facebook-messanger-204d9.appspot.com",
-    messagingSenderId: "262391985204",
-    appId: "1:262391985204:web:d53eb67c2a38c92a380661"
+	apiKey: "AIzaSyCV6jgOzUY0QaKHtfsRnZLL8tH7YRQnnvc",
+	authDomain: "facebook-messages-clone.firebaseapp.com",
+	projectId: "facebook-messages-clone",
+	storageBucket: "facebook-messages-clone.appspot.com",
+	messagingSenderId: "870414052955",
+	appId: "1:870414052955:web:3aa98271214170b048597e",
+	measurementId: "G-B25YVQBML4"
 })
 
-  const db = firebaseApp.firestore();
+const db = firebaseApp.firestore();
 
-  export default db  
+export default db
